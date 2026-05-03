@@ -16,11 +16,11 @@ I build hands-on experience through SOC simulation projects including phishing a
 
 ---
 
-## 🧠 Projects
+## 🧠 Projects 
 - SOC Alert Analysis Lab
 - Phishing Investigation Lab
 - Brute Force Detection Lab
-
+- and many more
 ---
 
 ## 📜 Certifications
@@ -30,7 +30,7 @@ I build hands-on experience through SOC simulation projects including phishing a
 - Deloitte Cyber Simulation (Forage)
 - Mastercard Cyber Simulation (Forage)
 - CompTIA Security+ (In Progress)
-
+- and many more to come
 ---
 
 ## ⚙️ Currently Learning
