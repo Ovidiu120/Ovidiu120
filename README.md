@@ -20,7 +20,7 @@ Building practical, hands-on experience through SOC simulation projects, includi
 - SOC Alert Analysis Lab
 - Phishing Investigation Lab
 - Brute Force Detection Lab
-- and many more
+- and many more to come
 ---
 
 ## 📜 Certifications
