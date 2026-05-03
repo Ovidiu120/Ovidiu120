@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ovidiu
 
-Aspiring SOC Analyst focused on cybersecurity, incident response, and threat detection.
+Aspiring SOC Analyst focused on cybersecurity operations, incident response, and threat detection.
 
-I build hands-on experience through SOC simulation projects including phishing analysis, brute force detection, and incident triage.
+Building practical, hands-on experience through SOC simulation projects, including phishing analysis, brute force detection, and incident triage, with a focus on structured investigation and real-world security workflows.
 
 ---
 
